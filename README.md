@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurav-nsec
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning C++ using DSA.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Software Engineer.
+- 🌱 I’m currently learning C++ using DSA,SQL,HTML,JAVASCRIPT.
+- 💞️ I’m looking to collaborate on any Company.
 - 📫 How to reach me https://www.linkedin.com/in/gaurav-kumar-choudhary-b16175170/
 
 <!---
